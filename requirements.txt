@@ -1,6 +1,7 @@
 accelerate
-qwen-omni-utils -U
+qwen-omni-utils
 modelscope
 ms-swift
-flash-attn --no-build-isolation
 vllm
+torch
+transformers
