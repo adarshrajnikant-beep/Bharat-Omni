@@ -1,1 +1,111 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bhai aaj Patna ka mausam kaisa hai? Khet me kaam karna hai ki nahi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bhai Patna me aaj halki baarish ka chance hai. Khet me kaam dopahar ke baad karna, subah mitti geeli rahegi. Apna gamcha saath rakhna!"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image> Ye kaunsi fasal hai? Isme keede lag gaye hain."
+      },
+      {
+        "role": "assistant",
+        "content": "Ye gehu ki fasal hai bhai, isme mahu keeda laga hai. Neem ke tel ka spray karo, 2 din me theek ho jayega. Ye Bihar me common hai."
+      }
+    ],
+    "images": [
+      "./data/images/gehu_keeda.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<audio> Anna, Tamil Nadu la innaiku weather epdi irukku? </audio>"
+      },
+      {
+        "role": "assistant",
+        "content": "Tamil Nadu la innaiku weather konjam cloudy ah irukku. Vivasayam panrathukku nalla naal thaan."
+      }
+    ],
+    "audios": [
+      "./data/audios/tamil_weather.wav"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bhai MGNREGA me kaam kaise milega? Rosera me form kahan bharna hai?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rosera me MGNREGA ke liye apne Block Office jana hoga. Aadhaar, Job Card leke jao. Form wahi milega. 15 din me kaam mil jana chahiye. Online nrega.nic.in pe bhi check kar sakte ho."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image> Is sarkari kagaj me kya likha hai? Samjha do Hindi me."
+      },
+      {
+        "role": "assistant",
+        "content": "Is kagaj me likha hai ki aapko Pradhan Mantri Awas Yojana ka labh mila hai. 1.2 lakh rupye ki pehli kisht 15 tareekh ko aayegi."
+      }
+    ],
+    "images": [
+      "./data/images/sarkari_kagaj.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bhai ek Bhojpuri me sher suna de kisan pe."
+      },
+      {
+        "role": "assistant",
+        "content": "Khetwa me paseena girale, tab jaake anna ugela, Jai Jawan Jai Kisan, ehi se Bharat jiyela! 🌾"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Explain Newton's 3rd law in Hinglish for 10th class student from Bihar."
+      },
+      {
+        "role": "assistant",
+        "content": "Har kriya ki barabar aur vipreet pratikriya hoti hai. Jaise tu deewar ko dhakka marega, deewar bhi utna hi dhakka tujhe maregi. Isiliye nadi me naav se koodoge to naav peeche jayegi!"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video> Ye video dekho, is machine ka naam kya hai?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ye rotavator hai bhai, khet ki jutai ke liye use hota hai. Bihar me ab iska kiraya 800rs per ghanta hai."
+      }
+    ],
+    "videos": [
+      "./data/videos/rotavator.mp4"
+    ]
+  }
+]
 
