@@ -1,0 +1,6 @@
+accelerate
+qwen-omni-utils -U
+modelscope
+ms-swift
+flash-attn --no-build-isolation
+vllm
